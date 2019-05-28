@@ -1,0 +1,10 @@
+# IPython log file
+
+#Conclusion
+#Some things that I want automated by a program would be homework and being able to plug in values to get the answer to the question.# 13 Using a docstring could help the user become more organised when making lots of different functions. For example, if they do not know what the function does because they have too many, a docstring could help them easily know what it does without looking through the entire function.
+#The native data types are int(1,2,5), float(4.666,4.0), boolean(True, False), and string('Hi").
+#3 Some things that command line doesn't have to the code editor is that you can't go back and view code that you a# Fri, 07 Dec 2018 17:49:55
+%logstop
+ne functions, and that it is a lot harder to troubleshoot problems.
+#4 Some advantages of putting code inside a function makes it easier to keep track of things, as you would no longer have to retype everything in the function in order to get what you want.
+# 5 It is probably the last conclusion question because with these commands you are checking that the functions are working properly with the inserted arguments.
